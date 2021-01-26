@@ -13,18 +13,22 @@ namespace OOP1
             product1.ProductName = "Masa";
             product1.UnitPrice = 500;
             product1.UnitIntStock = 3;
-            Product product2 = new Product() { Id = 2,
-            CategoryId = 5,
-            ProductName = "Kalem",
-            UnitPrice = 35,
-            UnitIntStock = 5,
-        };
+            Product product2 = new Product()
+            {
+                Id = 2,
+                CategoryId = 5,
+                ProductName = "Kalem",
+                UnitPrice = 35,
+                UnitIntStock = 5,
+            };
             //PascalCase //CamelCase
             //Case Sensetive
             ProductManager productManager = new ProductManager();
             productManager.Add(product1);
-            productManager.Topla2(3,6);
-            int toplamaSonucu = 0;
+            //productManager.Topla2(3, 6);
+            //int toplamaSonucu = productManager.Topla(3, 6);
+            //Console.WriteLine(toplamaSonucu * 2);
+            ////Console.WriteLine(productManager.Topla(3, 6) * 2);
         }
     }
 }

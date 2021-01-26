@@ -18,14 +18,14 @@ namespace OOP1
         }
         //VOID NEDİR?
         //Git yap emir kipi ile çalışan metot türüdür.
-        public int Topla(int sayi1,int sayi2)
-        {
-            return sayi1 + sayi2;
-        }
-        public void Topla2(int sayi1 , int sayi2)
-        {
-            Console.WriteLine(sayi1 +sayi2);
-            //return sayi1+sayi2;
-        }
+        //public int Topla(int sayi1,int sayi2)
+        //{
+        //    return sayi1 + sayi2;
+        //}
+        //public void Topla2(int sayi1 , int sayi2)
+        //{
+        //    Console.WriteLine(sayi1 +sayi2);
+        //    //return sayi1+sayi2;
+        //}
     }
 }

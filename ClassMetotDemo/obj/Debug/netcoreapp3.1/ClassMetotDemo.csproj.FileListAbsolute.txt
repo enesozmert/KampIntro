@@ -10,3 +10,4 @@ C:\Users\en-es\source\repos\MKampIntro\ClassMetotDemo\obj\Debug\netcoreapp3.1\Cl
 C:\Users\en-es\source\repos\MKampIntro\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.dll
 C:\Users\en-es\source\repos\MKampIntro\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.pdb
 C:\Users\en-es\source\repos\MKampIntro\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.genruntimeconfig.cache
+C:\Users\en-es\source\repos\MKampIntro\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.csprojAssemblyReference.cache
